@@ -1,5 +1,4 @@
-//LAURYN SCHILLER LAURYNS1@UMBC.EDU
-//LAB 2 PT 2 IF ELSE IF STATEME
+
 //Lauryn Schiller lauryns1@umbc.edu
 import java.util.Scanner;
 
